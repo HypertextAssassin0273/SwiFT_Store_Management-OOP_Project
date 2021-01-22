@@ -24,7 +24,7 @@ permalink: /PROJECT_DIVISION/
     <ul>
       <li>Customer can continue shopping after adding items to the cart unless he proceeds to checkout.</li>
       <li>Items can be added randomly from the list.</li>
-      <li>Active Data-Base updates only on Checkout</li>
+      <li>Active Data-Base gets updated when customer proceeds to checkout.</li>
     </ul>
     <hr>
   </div>
