@@ -1,0 +1,2 @@
+1) Set compliler settings for c++11 in order to compile files.
+2) In order to see run time class generation, you must set system environment variable path for g++ compiler to recognize the system command for recompilation in the source code 
