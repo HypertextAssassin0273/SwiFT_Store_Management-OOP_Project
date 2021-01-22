@@ -6,21 +6,26 @@ permalink: /PROJECT_DIVISION/
   <h1>Project Division</h1>
   <button class="accordion"><b>Retailer End:</b></button>
   <div class="panel">
-    <br>
-    <p>Its main purpose is to make sure that the included functionalities aren't re-used whenever main function is called. Also, it initializes the file names which are used to save In-game variables & strings. Hence, keeping your file names updated even if you have to rename the files in application.</p>
+    <ul>
+      <li>Retailer account is password protected with all admin privileges.</li>
+      <li>Retailer can change Category of Items.</li>
+      <li>Retailer can create new Category at runtime.</li>
+      <li>Retailer can add/delete/move/copy/swap/update items randomly.</li>
+      <li>Retailer can create/update/delete multiple databases (which can be selected to show on customer menu).</li>
+      <li>While deleting, other databases are Renamed in order to remain synced with the app.</li>
+      <li>All Data-Bases can be encrypted/decrypted & can be viewed while encrypted.</li>
+      <li>Public Keys are available in a separate .txt file.</li>
+    </ul>
     <hr>
   </div>
   
   <button class="accordion"><b>Customer End:</b></button>
   <div class="panel">
-    <br>
-  <ul>
-    <li>Our project has Maximum abstraction so that the customer's data cannot be stolen/updated from app nor from its Files.</li>
-    <li>We also ensured that all sensitive data is encrypted so that no info could be stole from files.</li>
-    <li>Our Application is portable, as it doesn’t require manual recompilation for generating new classes.</li>
-    <li>All Input data errors are validated using the generic function & its overloaded versions.</li>
-    <li>Our application is also memory efficient (i.e. vector class approach used for Items Pointer Array).</li>
-  </ul>
+    <ul>
+      <li>Customer can continue shopping after adding items to the cart unless he proceeds to checkout.</li>
+      <li>Items can be added randomly from the list.</li>
+      <li>Active Data-Base updates only on Checkout</li>
+    </ul>
     <hr>
   </div>
 
