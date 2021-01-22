@@ -46,5 +46,5 @@ permalink: /
 <details>
   <summary style="color:#159957;font-size:2em;">Class-Relation Diagram</summary>
   <br>
-  <img src="https://user-images.githubusercontent.com/66676402/105500781-31efd700-5ce5-11eb-94ad-7f4fa033de51.jpg" />
+  <img src="https://user-images.githubusercontent.com/66676402/105533049-7a22ef80-5d0d-11eb-8143-7f31b4546be2.png" />
 </details>
