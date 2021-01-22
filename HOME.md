@@ -28,6 +28,23 @@ permalink: /
 ---
 
 <details>
+  <summary style="color:#159957;font-size:2em;">Learned/Covered Topics</summary>
+  <br>
+  <ul>
+    <li>Filing (i.e. read/write abstract class objects)</li>
+    <li>Inheritance (i.e. multi-level)</li>
+    <li>Friend Classes</li>
+    <li>Abstraction (i.e. all data is in private & protected mode)</li>
+    <li>Polymorphism (func. overloading , func. Overriding, operator overloading)</li>
+    <li>Encapsulation (i.e. all data is private/protected)</li>
+    <li>Templates/ Variadic Templates (i.e. for generic funcs.)</li>
+    <li>Header Files</li>
+    <li>Pointer Arrays (i.e. 2D dynamic object pointer array)</li>
+  </ul>
+</details>
+ 
+---
+<details>
   <summary style="color:#159957;font-size:2em;">Class-Relation Diagram</summary>
   <br>
   <img src="https://user-images.githubusercontent.com/66676402/105500781-31efd700-5ce5-11eb-94ad-7f4fa033de51.jpg" />
