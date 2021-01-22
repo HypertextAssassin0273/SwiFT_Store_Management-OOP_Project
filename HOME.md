@@ -4,7 +4,7 @@ permalink: /
 
 <details>
   <summary style="color:#159957;font-size:2em;">Introduction</summary>
-  <p>This project is based on the famous traditional board game "Snake & Ladders".<br><br>It overcomes the barrier between classic board games and modern games by enhancing the GUI environment to provide better & friendly game play through giving multiplayer option to users to play with a secure account that intrigues the visual & audio effects. Hence, catering every need for unique gaming experience.</p>
+  <p>This project is based on the idea of an offline store management application which will handle shopping items in terms of categories. Our project has two main modules (i.e. Retailer & Customer), in which we have provided unique functionalities. We’ve also prioritized the application in terms of a GUI environment (by providing 2 diff. menu outlooks) so that it ensures a good interaction between the retailer/customer and the application with complete checkout process.<br>Hence, catering all the requirements of both Retailer & customer with an ensured smooth experience.</p>
 </details>
 
 ---
