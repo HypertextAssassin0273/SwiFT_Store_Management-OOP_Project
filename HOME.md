@@ -45,32 +45,7 @@ permalink: /
 ---
 
 <details>
-  <summary style="color:#159957;font-size:2em;">Fixed In-Game Issues</summary>
-  <br>
-  <ul>
-    <li>Restricted dice settings to encourage fair game-play with warning message & beep</li>
-    <li>Restricted users from resuming/saving finished game</li>
-    <li>Restricted users from resuming/saving at start-up of application</li>
-    <li>Same user names, game names & previous saved game names will not be accepted</li>
-    <li>Functions are cleared from stack after their complete execution</li>
-    <li>Invalid inputs will no longer be accepted</li>
-    <li>Load Game Menu will not open if its respective data files are not present</li>
-    <li>Save Game Menu will not open if Available Slots are full</li>
-  </ul>
-</details>
-
----
-
-<details>
   <summary style="color:#159957;font-size:2em;">Flow/Control of Game</summary>
   <br>
   <img src="https://user-images.githubusercontent.com/66676402/88355997-dbc6c900-cd7f-11ea-89f4-51bfe29051db.png" />
-</details>
-
----
-
-<details>
-  <summary style="color:#159957;font-size:2em;">HIPO-Chart</summary>
-  <br>
-  <img src="https://user-images.githubusercontent.com/66676402/88356008-e08b7d00-cd7f-11ea-9814-4d16efeb91f7.png" />
 </details>
