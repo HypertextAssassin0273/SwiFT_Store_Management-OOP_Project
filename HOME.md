@@ -15,7 +15,7 @@ permalink: /
   <ul>
     <li>We have provided maximum abstraction so that the customer's data cannot be stolen/updated from app nor from its Files.</li>
     <li>We also ensured that all sensitive data is encrypted so that no info could be stole from files.</li>
-    <li>The Code is in generalized format utilizing all C++ templates techniques, & variadic template function & Parameter pack (i.e., C++11 features).</li>
+    <li>The Code is in generalized format utilizing all C++ templates techniques, & variadic template function & Parameter pack (i.e. C++11 features).</li>
     <li>Our Project is capable of generating new Categories (i.e. Classes)
     At run-time, with up to 30 attributes.</li>
     <li>Our Application is portable, as it doesn’t require manual recompilation for generating new classes.
