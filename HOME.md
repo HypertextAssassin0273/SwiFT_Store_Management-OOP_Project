@@ -28,7 +28,7 @@ permalink: /
 ---
 
 <details>
-  <summary style="color:#159957;font-size:2em;">Class Relation Diagram</summary>
+  <summary style="color:#159957;font-size:2em;">Class-Relation Diagram</summary>
   <br>
   <img src="https://user-images.githubusercontent.com/66676402/105500781-31efd700-5ce5-11eb-94ad-7f4fa033de51.jpg" />
 </details>
