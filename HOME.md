@@ -28,24 +28,7 @@ permalink: /
 ---
 
 <details>
-  <summary style="color:#159957;font-size:2em;">What’s New? (Improvements)</summary>
+  <summary style="color:#159957;font-size:2em;">Class Relation Diagram</summary>
   <br>
-  <ul>
-    <li>Three new & different Game Modes.<br>(i.e. Total: classic, modern, time knockdown, turn knockdown)</li>
-    <li>Separate Dice-Menu with four different settings.<br>(i.e. auto/manual, single/double dice)</li>
-    <li>Win-Menu will now show turns & positions of both players, along with total time taken in each match.</li>
-    <li>To reduce the code size & improve efficiency for locating ‘Cursor-Pointer’ on board, a complex equation is used.</li>
-    <li>Hidden Settings for Filing & some In-game functions.<br>(i.e. Delete Specific Slot, Erase All Data, Rename Files, ON/OFF Sounds)</li>
-    <li>Flexible Menu for load game function, displaying all saved games along with their respective game modes. Also, you can select any saved Game in the Menu (without scrolling up/down) by simply typing the index number in a dialogue box.<br>(i.e. To enable the dialogue box, press Ctrl+w)</li>
-    <li>Save Game Menu can now show the Available Slots.</li>
-    <li>Calculated Time will now be displayed in Standard Format.</li>
-  </ul>
-</details>
-
----
-
-<details>
-  <summary style="color:#159957;font-size:2em;">Flow/Control of Game</summary>
-  <br>
-  <img src="https://user-images.githubusercontent.com/66676402/88355997-dbc6c900-cd7f-11ea-89f4-51bfe29051db.png" />
+  <img src="https://user-images.githubusercontent.com/66676402/105500781-31efd700-5ce5-11eb-94ad-7f4fa033de51.jpg" />
 </details>
