@@ -38,7 +38,6 @@ permalink: /
     <li>Polymorphism (func. overloading , func. Overriding, operator overloading)</li>
     <li>Encapsulation (i.e. all data is private/protected)</li>
     <li>Templates/ Variadic Templates (i.e. for generic funcs.)</li>
-    <li>Header Files</li>
     <li>Pointer Arrays (i.e. 2D dynamic object pointer array)</li>
   </ul>
 </details>
