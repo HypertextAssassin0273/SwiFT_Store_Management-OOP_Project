@@ -335,6 +335,7 @@ class Items_List final{
 			cout<<"\nWarning: No Item found!\n\a";
 	}
 	~Items_List(){
+		Clear_List(true);
 		if (Items_Counter)
 			delete[] Item;
 		else
