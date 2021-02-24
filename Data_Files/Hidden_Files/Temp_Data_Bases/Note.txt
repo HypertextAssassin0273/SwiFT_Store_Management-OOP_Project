@@ -1,0 +1,2 @@
+Do not Delete this folder!!
+i.e. This folder is used by temporary data_base files when encrypted.
