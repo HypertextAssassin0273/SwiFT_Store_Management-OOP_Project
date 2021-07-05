@@ -2,4 +2,4 @@
 
 ## - <a href="https://hypertextassassin0273.github.io/SwiFT_Store_Management-OOP_Project/">Visit Project Website</a>
 
-**NOTE: Project related files are present in 'main' branch &, Project-Website related files are present in 'gh-pages' branch**
+**NOTE: Project related files are present in 'main' branch &, Project-Website files are present in 'gh-pages' branch**
